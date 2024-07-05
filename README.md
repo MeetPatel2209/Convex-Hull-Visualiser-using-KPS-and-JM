@@ -3,7 +3,7 @@
 
 This is a complete Convex Hull Algorithm visualiser developed using NodeJS and C++ code for the Algorithm. The project was developed as a part of my Design and Analysis of Algorithm course at BITS Pilani, Hyderabad Campus. For running the Visualiser, follow the following steps : 
 
--> In the code folder, first download all the required node modules and dependencies. 
+-> In the code folder, first download all the required node modules and dependencies using npm i. 
 -> Run the app.js using nodeJS and it will start running on port 3000. 
 -> In the visualiser, there are 3 ways to give input : 
    1) You can upload a CSV/Excel file containing the coordinates of the points for which convex hull need to be computed.
